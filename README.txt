@@ -46,3 +46,6 @@ phplint
 vim-quickrun
 vimで編集中にファイルを実行できる
 \+r
+
+---
+
